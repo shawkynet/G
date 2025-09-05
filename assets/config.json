@@ -1,0 +1,16 @@
+{
+  "baseUrl": "https:/alwaw.com.ly/",
+  "google_maps_ApiKey": "AIzaSyCrU-gNRP8xFL04CwSAgpu_gQwH3VFn7OY",
+  "styling": {
+    "ThemeMode.light": {
+      "primary": "F19F22",
+      "secondary": "919CB4",
+      "secondaryVariant": "969696",
+      "background": "ffffff",
+      "scaffoldBackgroundColor": "ffffff",
+      "buttonTextColor": "ffffff",
+      "dividerColor": "f6f6f6"
+    }
+  },
+  "themeMode": "ThemeMode.light"
+}
